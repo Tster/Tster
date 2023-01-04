@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tster
 - 👀 I’m interested in crypto and NFTs (in particular L2s and NFT aggregation and financialisation)
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on technical writing projects in the crypto space
 - 📫 Reach me on Twitter at @tstereth
 
 <!---
